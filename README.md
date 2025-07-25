@@ -122,3 +122,15 @@ For questions or support, please contact the development team.
 ---
 
 *Built with love for the Stacks ecosystem*
+
+## Recent Updates
+
+- Initial implementation of Fitness Challenge Protocol
+- Added comprehensive smart contract with gamification features
+- Implemented proof-of-exercise verification system
+- Created reward distribution mechanism
+- Added user streak tracking and statistics
+
+## Version History
+
+- v1.0.0: Initial release with core fitness challenge functionality
